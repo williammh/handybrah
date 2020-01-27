@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           Cleon was header
+           Cleon was foot
+           
         </p>
       </header>
     </div>
